@@ -24,3 +24,6 @@ cd pcg-deliverable-demo
 docker-compose up -d --build
 ```
 And that's it! By default, the application will run on [localhost:3000](http://localhost:3000/)
+
+## Login / Signup
+The root URL will redirect you to login if you have not logged in to the application. From here, you can either create an account by clicking on the sign up link, or log in using the provided account; by default, there will exist one user with the credentials admin/admin.
